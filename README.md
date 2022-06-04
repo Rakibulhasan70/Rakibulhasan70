@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi I'm Rakibul Hasan Sohag
 #### Web developer 
-![Web developer ](https://avatars.githubusercontent.com/u/96791215?v=4)
+![Web developer ]
 
 MERN-Stack Developer | | Building Myself Productive and Senior-Developer | | Software Engineer
 
